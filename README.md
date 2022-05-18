@@ -21,9 +21,9 @@ $ python predict.py
 </p>
 
 # Validation
-- The input profiles (pressure and current density) are
+- The input profiles (pressure, current density, and plasma boundary) are
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46472432/168748534-ae1fa269-90ed-41c9-9c1b-d791f23a2066.png">
+  <img src="https://user-images.githubusercontent.com/46472432/168934018-e295b894-6277-47e4-a496-0f18d59ee977.png">
 </p>
 
 - Then, the 2D outputs are
