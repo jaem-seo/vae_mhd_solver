@@ -20,7 +20,7 @@ $ python predict.py
   <img src="https://user-images.githubusercontent.com/46472432/168748038-36ac52c3-b2b4-4a9e-98cb-00af03765977.png">
 </p>
 
-# Validation
+# Description
 - The input profiles (pressure, current density, and plasma boundary) are
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46472432/168934018-e295b894-6277-47e4-a496-0f18d59ee977.png">
@@ -31,8 +31,12 @@ $ python predict.py
   <img src="https://user-images.githubusercontent.com/46472432/168748830-af80e7c4-6879-4180-a14a-54b4aa9bca00.png">
 </p>
 
+- Other 0D and 1D physical quantities are also calculated.
+
 # Note
 - The current version has a limitation in that the reconstructed outputs are slightly jagged.
+- The model is similar to VAE, but the input and output are only physically consistent with each other, not the same structure.
+- A physical loss has been added to the loss calculation.
 
 # References
 - Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint [arXiv:1312.6114 (2013)](https://arxiv.org/pdf/1312.6114.pdf).
