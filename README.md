@@ -1,7 +1,10 @@
 # VAE-like MHD equilibrium solver
 - Magneto-Hydro-Dynamics (MHD) is the physics of electromagnetically interacting fluids.
-- Solving the MHD force balance equation is required first for analyzing fusion plasmas in a tokamak.
+- Solving the MHD force balance equation is the first step for analyzing fusion plasmas in a tokamak.
 - This repository describes a variational auto-encoder (VAE)-like neural network to solve ideal MHD equilibrium.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46472432/168963839-3114ff3d-b50a-4e6f-aab1-b1d4bd96aea8.png">
+</p>
 
 # Installation
 - You can install by
