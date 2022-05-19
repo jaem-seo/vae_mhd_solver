@@ -43,6 +43,6 @@ $ python predict.py
 - The physical quantities for input/outputs are normalized according to [CHEASE convention](https://crppwww.epfl.ch/~sauter/chease/chease_normalization.pdf).
 
 # References
-- Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint [arXiv:1312.6114 (2013)](https://arxiv.org/pdf/1312.6114.pdf).
+- Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint [arXiv:1312.6114 (2013)](https://arxiv.org/abs/1312.6114).
 - Miller, R. L., et al. "Noncircular, finite aspect ratio, local equilibrium model." Physics of Plasmas [5.4 (1998): 973-978](https://aip.scitation.org/doi/abs/10.1063/1.872666).
 - Lütjens, Hinrich, Anders Bondeson, and Olivier Sauter. "The CHEASE code for toroidal MHD equilibria." Computer physics communications [97.3 (1996): 219-260](https://www.sciencedirect.com/science/article/pii/001046559600046X).
