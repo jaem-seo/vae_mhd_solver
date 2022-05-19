@@ -29,7 +29,7 @@ $ python predict.py
   <img src="https://user-images.githubusercontent.com/46472432/168934018-e295b894-6277-47e4-a496-0f18d59ee977.png">
 </p>
 
-- Then, the 2D outputs are
+- Then, the 2D outputs (ground truth and prediction) are
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46472432/168748830-af80e7c4-6879-4180-a14a-54b4aa9bca00.png">
 </p>
