@@ -39,7 +39,7 @@ $ python predict.py
 # Note
 - The current version has a limitation in that the reconstructed outputs are slightly jagged.
 - The model is similar to VAE, but the input and output are only physically consistent with each other, not the same structure.
-- A physical loss has been added to the loss calculation.
+- A simple physical constraint has been added to the loss calculation.
 - The physical quantities for input/outputs are normalized according to [CHEASE convention](https://crppwww.epfl.ch/~sauter/chease/chease_normalization.pdf).
 
 # References
